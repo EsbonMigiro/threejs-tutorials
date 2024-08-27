@@ -1,0 +1,9 @@
+# Create app
+npx create-react-app animation
+
+# Install dependencies
+cd animation
+ npm install three @react-three/fiber
+
+# Start development server
+npm run start
